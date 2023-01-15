@@ -3,7 +3,7 @@ public class operadores {
     String nomeUm = "GABRIEL";
     String nomeDois = new String("GABRIEL");
 
-    System.out.println(nomeUm.equals (nomeDois ));
+    System.out.println(nomeUm.equals (nomeDois));
 
 
     int numero1 = 1;
